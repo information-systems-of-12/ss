@@ -1,5 +1,5 @@
 {
-  "name": "iso12-ss-mjs-adaptation",
+  "name": "iso12-ss-adaptation",
   "version": "1.0.0",
   "description": "",
   "main": "./functions/main.mjs",
