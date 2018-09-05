@@ -1,6 +1,6 @@
 {
-  "name": "iso12-ss-adaptation",
-  "version": "1.0.0",
+  "name": "iso12-ss",
+  "version": "1.0.1",
   "description": "",
   "main": "./functions/main.mjs",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:information-systems-of-12/ss-adaptation.gitmaster"
+    "url": "git+ssh://git@github.com:information-systems-of-12/ss.gitmaster"
   },
   "keywords": [
    
   ],
   "author": "Artem Gruden",
   "license": "MIT",
-  "homepage": "https://github.com/information-systems-of-12/ss-adaptation#readme",
+  "homepage": "https://github.com/information-systems-of-12/ss#readme",
   "dependencies": {
     "dom-classes": "github:npm-dom/dom-classes",
     "dom-create-element": "^1.0.2",
