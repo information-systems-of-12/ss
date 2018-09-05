@@ -1,0 +1,28 @@
+{
+  "name": "iso12-ss-mjs-adaptation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./functions/main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:information-systems-of-12/ss-mjs-adaptation.gitmaster"
+  },
+  "keywords": [
+   
+  ],
+  "author": "Artem Gruden",
+  "license": "MIT",
+  "homepage": "https://github.com/information-systems-of-12/ss-mjs-adaptation#readme",
+  "dependencies": {
+    "dom-classes": "github:npm-dom/dom-classes",
+    "dom-create-element": "^1.0.2",
+    "dom-events": "^0.1.1",
+    "prefix": "^1.0.0",
+    "virtual-scroll": "^1.2.1"
+  },
+  "bundleDependencies": false
+
+}
